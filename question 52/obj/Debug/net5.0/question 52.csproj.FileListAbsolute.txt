@@ -1,0 +1,16 @@
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.csprojAssemblyReference.cache
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.AssemblyInfoInputs.cache
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.AssemblyInfo.cs
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.csproj.CoreCompileInputs.cache
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.exe
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.deps.json
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.runtimeconfig.json
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.runtimeconfig.dev.json
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.dll
+E:\visual studio projects\question 52\bin\Debug\net5.0\ref\question 52.dll
+E:\visual studio projects\question 52\bin\Debug\net5.0\question 52.pdb
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.dll
+E:\visual studio projects\question 52\obj\Debug\net5.0\ref\question 52.dll
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.pdb
+E:\visual studio projects\question 52\obj\Debug\net5.0\question 52.genruntimeconfig.cache
