@@ -1,0 +1,16 @@
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.AssemblyInfoInputs.cache
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.AssemblyInfo.cs
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.csproj.CoreCompileInputs.cache
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.exe
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.deps.json
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.runtimeconfig.json
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.runtimeconfig.dev.json
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.dll
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\ref\non Primitive Code 5.dll
+E:\visual studio projects\non Primitive Code 5\bin\Debug\net5.0\non Primitive Code 5.pdb
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.csprojAssemblyReference.cache
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.dll
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\ref\non Primitive Code 5.dll
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.pdb
+E:\visual studio projects\non Primitive Code 5\obj\Debug\net5.0\non Primitive Code 5.genruntimeconfig.cache

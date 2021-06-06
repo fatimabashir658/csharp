@@ -1,0 +1,4 @@
+E:\visual studio projects\Non Primitive code 6\obj\Debug\net5.0\Non Primitive code 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projects\Non Primitive code 6\obj\Debug\net5.0\Non Primitive code 6.AssemblyInfoInputs.cache
+E:\visual studio projects\Non Primitive code 6\obj\Debug\net5.0\Non Primitive code 6.AssemblyInfo.cs
+E:\visual studio projects\Non Primitive code 6\obj\Debug\net5.0\Non Primitive code 6.csproj.CoreCompileInputs.cache
