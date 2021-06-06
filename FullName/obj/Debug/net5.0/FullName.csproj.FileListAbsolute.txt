@@ -1,0 +1,16 @@
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.exe
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.deps.json
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.runtimeconfig.json
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.runtimeconfig.dev.json
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.dll
+E:\visual studio projects\FullName\bin\Debug\net5.0\ref\FullName.dll
+E:\visual studio projects\FullName\bin\Debug\net5.0\FullName.pdb
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.csprojAssemblyReference.cache
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.AssemblyInfoInputs.cache
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.AssemblyInfo.cs
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.csproj.CoreCompileInputs.cache
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.dll
+E:\visual studio projects\FullName\obj\Debug\net5.0\ref\FullName.dll
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.pdb
+E:\visual studio projects\FullName\obj\Debug\net5.0\FullName.genruntimeconfig.cache

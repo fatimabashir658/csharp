@@ -1,0 +1,15 @@
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.exe
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.deps.json
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.runtimeconfig.json
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.runtimeconfig.dev.json
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.dll
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\ref\Non Primitive  code 4.dll
+E:\visual studio projects\Non Primitive  code 4\bin\Debug\net5.0\Non Primitive  code 4.pdb
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.AssemblyInfoInputs.cache
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.AssemblyInfo.cs
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.csproj.CoreCompileInputs.cache
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.dll
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\ref\Non Primitive  code 4.dll
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.pdb
+E:\visual studio projects\Non Primitive  code 4\obj\Debug\net5.0\Non Primitive  code 4.genruntimeconfig.cache
